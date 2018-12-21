@@ -1,5 +1,5 @@
-# ibtb_timeseries
-IBTB time series project implement
+# ibtp_timeseries
+IBTP time series project implement
 
 In this project, we compare the performance of time series data on different model.
 We prepare different kinds of time series data to compare the performance.
